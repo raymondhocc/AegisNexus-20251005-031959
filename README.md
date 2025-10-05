@@ -2,7 +2,7 @@
 
 Aegis Nexus is a sophisticated, minimalist General Insurance Administration platform designed for operational excellence and a superior user experience. Built on a serverless Cloudflare architecture, it provides a lightning-fast, secure, and scalable solution for managing the entire insurance lifecycle. The application is structured around a central dashboard providing key insights, and dedicated modules for comprehensive Policy Management, streamlined Claims Processing, in-depth Customer Relationship Management (CRM), and powerful Reporting. The design philosophy emphasizes clarity, simplicity, and efficiency, using generous white space, a refined color palette, and intuitive workflows to reduce cognitive load and empower administrators.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/raymondhocc/AegisNexus-20251005-031959)
 
 ## Table of Contents
 
@@ -91,7 +91,7 @@ This command will build the frontend, bundle the worker, and deploy both to your
 
 Alternatively, you can deploy directly from your GitHub repository using the button below:
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/raymondhocc/AegisNexus-20251005-031959)
 
 ## Project Structure
 
